@@ -1,0 +1,4 @@
+timestamp,air_temperature_c,relative_humidity_pct,global_horizontal_w_m2,direct_normal_w_m2,diffuse_horizontal_w_m2,wind_speed_m_s,wind_height_m
+2026-06-21T10:00:00+00:00,23,55,500,550,100,2,10
+2026-06-21T11:00:00+00:00,25,50,600,650,120,2.5,10
+2026-06-21T12:00:00+00:00,26,47,650,700,130,2.2,10
